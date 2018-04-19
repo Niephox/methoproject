@@ -177,7 +177,8 @@
                 android:layout_marginTop="16dp"
                 android:text="Register"
                 android:textColor="#0013c2"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:textSize="20sp"/>
 
         </LinearLayout>
     </ScrollView>
