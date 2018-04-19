@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:/Users/Niephox/AndroidStudioProjects/methoproject2/methoproject.iml" filepath="C:/Users/Niephox/AndroidStudioProjects/methoproject2/methoproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/methoproject1.0.2.iml" filepath="$PROJECT_DIR$/.idea/methoproject1.0.2.iml" />
       <module fileurl="file://C:/Users/Niephox/AndroidStudioProjects/methoprojectREP/methoproject2.iml" filepath="C:/Users/Niephox/AndroidStudioProjects/methoprojectREP/methoproject2.iml" />
