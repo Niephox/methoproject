@@ -12,7 +12,7 @@
 
     tools:context="com.example.niephox.methophotos.Activities.LoginActivity">
 
-    <!-- Login progress -->
+
     <ProgressBar
         android:id="@+id/login_progress"
         style="?android:attr/progressBarStyleLarge"
